@@ -1,4 +1,4 @@
-On my machine, this produces a "error: malformed debug info file" error:
+On my machine, this produces an "error: malformed debug info file" error:
 
 - `cd client`
 - `npm install`
